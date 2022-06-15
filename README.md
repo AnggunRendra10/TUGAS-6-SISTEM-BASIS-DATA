@@ -33,4 +33,4 @@ Data Yang Telah Di-Backup Dapat Dikembalikan Kapan Saja Bila Diperlukan. Sintaks
 ### 6. Tulisakan Script Cron Job Untuk Melakukan Backup Otomatis Setiap Hari Minggu Jam 12 Malam !
 Crontab –e
 
-5923***myqldump -u Adminklinik -p klinnik_312010022>backuptugaske6.sql
+00**7myqldump -u Adminklinik -p klinnik_312010022>backuptugaske6.sql
